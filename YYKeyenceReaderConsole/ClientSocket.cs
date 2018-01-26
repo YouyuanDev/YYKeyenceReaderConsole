@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
 /// <summary>
-/// Kurt Youyuan
+/// Kurt Youyuan 2018
 /// </summary>
 
 namespace YYKeyenceReaderConsole
