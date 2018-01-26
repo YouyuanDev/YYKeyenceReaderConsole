@@ -1,0 +1,9 @@
+C:\Users\YuanZhongjie\Desktop\workspace\YYKeyenceReaderConsole\YYKeyenceReaderConsole\bin\Debug\YYKeyenceReaderConsole.exe.config
+C:\Users\YuanZhongjie\Desktop\workspace\YYKeyenceReaderConsole\YYKeyenceReaderConsole\bin\Debug\YYKeyenceReaderConsole.exe
+C:\Users\YuanZhongjie\Desktop\workspace\YYKeyenceReaderConsole\YYKeyenceReaderConsole\bin\Debug\YYKeyenceReaderConsole.pdb
+C:\Users\YuanZhongjie\Desktop\workspace\YYKeyenceReaderConsole\YYKeyenceReaderConsole\obj\Debug\YYKeyenceReaderConsole.csprojResolveAssemblyReference.cache
+C:\Users\YuanZhongjie\Desktop\workspace\YYKeyenceReaderConsole\YYKeyenceReaderConsole\obj\Debug\YYKeyenceReaderConsole.Form1.resources
+C:\Users\YuanZhongjie\Desktop\workspace\YYKeyenceReaderConsole\YYKeyenceReaderConsole\obj\Debug\YYKeyenceReaderConsole.Properties.Resources.resources
+C:\Users\YuanZhongjie\Desktop\workspace\YYKeyenceReaderConsole\YYKeyenceReaderConsole\obj\Debug\YYKeyenceReaderConsole.csproj.GenerateResource.Cache
+C:\Users\YuanZhongjie\Desktop\workspace\YYKeyenceReaderConsole\YYKeyenceReaderConsole\obj\Debug\YYKeyenceReaderConsole.exe
+C:\Users\YuanZhongjie\Desktop\workspace\YYKeyenceReaderConsole\YYKeyenceReaderConsole\obj\Debug\YYKeyenceReaderConsole.pdb
