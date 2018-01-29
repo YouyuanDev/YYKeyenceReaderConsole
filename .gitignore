@@ -4,3 +4,4 @@ obj
 bin
 *.exe
 *.pdb
+.vs/YYKeyenceReaderConsole/v14/.suo
