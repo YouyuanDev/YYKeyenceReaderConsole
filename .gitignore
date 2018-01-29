@@ -1,4 +1,6 @@
-.suo
+*.suo
 Debug
 obj
 bin
+*.exe
+*.pdb
