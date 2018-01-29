@@ -17,7 +17,7 @@ namespace YYKeyenceReaderConsole
     public partial class Form1 : Form
     {
 
-        private const int READER_COUNT = 30;      // number of readers to connect  基恩士读码器个数..
+        private const int READER_COUNT = 30;      // number of readers to connect  基恩士读码器个数
         private const int RECV_DATA_MAX = 10240;   //数据量buff最大值
         private const int ACCURACY = 50; //接受读码器数据的最小精度 100毫秒 0为不等待
         private ClientSocket[] clientSocketInstance;  //基恩士读码器clientSocket数组
